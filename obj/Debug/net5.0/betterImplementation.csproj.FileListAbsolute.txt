@@ -1,0 +1,16 @@
+C:\Users\liamt\source\repos\betterImplementation\bin\Debug\net5.0\betterImplementation.exe
+C:\Users\liamt\source\repos\betterImplementation\bin\Debug\net5.0\betterImplementation.deps.json
+C:\Users\liamt\source\repos\betterImplementation\bin\Debug\net5.0\betterImplementation.runtimeconfig.json
+C:\Users\liamt\source\repos\betterImplementation\bin\Debug\net5.0\betterImplementation.runtimeconfig.dev.json
+C:\Users\liamt\source\repos\betterImplementation\bin\Debug\net5.0\betterImplementation.dll
+C:\Users\liamt\source\repos\betterImplementation\bin\Debug\net5.0\ref\betterImplementation.dll
+C:\Users\liamt\source\repos\betterImplementation\bin\Debug\net5.0\betterImplementation.pdb
+C:\Users\liamt\source\repos\betterImplementation\obj\Debug\net5.0\betterImplementation.csprojAssemblyReference.cache
+C:\Users\liamt\source\repos\betterImplementation\obj\Debug\net5.0\betterImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamt\source\repos\betterImplementation\obj\Debug\net5.0\betterImplementation.AssemblyInfoInputs.cache
+C:\Users\liamt\source\repos\betterImplementation\obj\Debug\net5.0\betterImplementation.AssemblyInfo.cs
+C:\Users\liamt\source\repos\betterImplementation\obj\Debug\net5.0\betterImplementation.csproj.CoreCompileInputs.cache
+C:\Users\liamt\source\repos\betterImplementation\obj\Debug\net5.0\betterImplementation.dll
+C:\Users\liamt\source\repos\betterImplementation\obj\Debug\net5.0\ref\betterImplementation.dll
+C:\Users\liamt\source\repos\betterImplementation\obj\Debug\net5.0\betterImplementation.pdb
+C:\Users\liamt\source\repos\betterImplementation\obj\Debug\net5.0\betterImplementation.genruntimeconfig.cache
